@@ -15,6 +15,7 @@ This experience is developed using:
 ## Guidelines
 - Branch out from master if you want to add / modify anything.
 - Highly recommend the use of prefabs.
+- **Don't add things to MainScene.Unity**, please make all additions in the form of prefabs
 Avoids a lot of merging conflicts in later steps.
 - Please use pull request first before you merge into master. Keep the master clean!
 
