@@ -1,0 +1,1369 @@
+fileFormatVersion: 2
+guid: 4cdc8084349c4994ab173ef6f315ef89
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: apples
+    100002: blocktree
+    100004: blocktree1
+    100006: blocktree10
+    100008: blocktree11
+    100010: blocktree2
+    100012: blocktree3
+    100014: blocktree4
+    100016: blocktree5
+    100018: blocktree6
+    100020: blocktree7
+    100022: blocktree8
+    100024: blocktree9
+    100026: blue
+    100028: castlefairy
+    100030: chipbag:pCube1
+    100032: chips
+    100034: cup1
+    100036: cup2
+    100038: deadtree
+    100040: deadtree1
+    100042: deadtree10
+    100044: deadtree11
+    100046: deadtree2
+    100048: deadtree3
+    100050: deadtree4
+    100052: deadtree5
+    100054: deadtree6
+    100056: deadtree7
+    100058: deadtree8
+    100060: deadtree9
+    100062: destructablevines
+    100064: dirtmound
+    100066: dirtmound1
+    100068: dirtmound2
+    100070: dirtmound3
+    100072: dirtmound4
+    100074: fries
+    100076: fries1
+    100078: fries2
+    100080: frybox
+    100082: grass
+    100084: grass1_polySurface82
+    100086: grass3_polySurface77
+    100088: grass5
+    100090: ground
+    100092: junkfoodcastle
+    100094: leaves
+    100096: log
+    100098: log1
+    100100: log2
+    100102: log3
+    100104: log4
+    100106: obstaclevines
+    100108: pasted__group
+    100110: pasted__group8
+    100112: pasted__group8 1
+    100114: pasted__group8 2
+    100116: pasted__group8 3
+    100118: pasted__group8 4
+    100120: pasted__group8 5
+    100122: pasted__pasted__group8
+    100124: pasted__pasted__polySurface61
+    100126: pasted__pasted__polySurface63
+    100128: pasted__pasted__polySurface65
+    100130: pasted__polySurface61
+    100132: pasted__polySurface61 1
+    100134: pasted__polySurface61 2
+    100136: pasted__polySurface61 3
+    100138: pasted__polySurface61 4
+    100140: pasted__polySurface61 5
+    100142: pasted__polySurface63
+    100144: pasted__polySurface63 1
+    100146: pasted__polySurface63 2
+    100148: pasted__polySurface63 3
+    100150: pasted__polySurface63 4
+    100152: pasted__polySurface63 5
+    100154: pasted__polySurface65
+    100156: pasted__polySurface65 1
+    100158: pasted__polySurface65 2
+    100160: pasted__polySurface65 3
+    100162: pasted__polySurface65 4
+    100164: pCube1
+    100166: pCube33
+    100168: pCube34
+    100170: pCylinder2
+    100172: pCylinder3
+    100174: pinetree
+    100176: pinetree1
+    100178: pinetree10
+    100180: pinetree11
+    100182: pinetree12
+    100184: pinetree13
+    100186: pinetree14
+    100188: pinetree2
+    100190: pinetree3
+    100192: pinetree4
+    100194: pinetree5
+    100196: pinetree6
+    100198: pinetree7
+    100200: pinetree8
+    100202: pinetree9
+    100204: //RootNode
+    100206: polySurface100
+    100208: polySurface108
+    100210: polySurface108 1
+    100212: polySurface108 2
+    100214: polySurface108 3
+    100216: polySurface108 4
+    100218: polySurface109
+    100220: polySurface109 1
+    100222: polySurface109 2
+    100224: polySurface109 3
+    100226: polySurface109 4
+    100228: polySurface109 5
+    100230: polySurface110
+    100232: polySurface110 1
+    100234: polySurface111
+    100236: polySurface111 1
+    100238: polySurface112
+    100240: polySurface112 1
+    100242: polySurface113
+    100244: polySurface113 1
+    100246: polySurface114
+    100248: polySurface114 1
+    100250: polySurface115
+    100252: polySurface115 1
+    100254: polySurface116
+    100256: polySurface116 1
+    100258: polySurface117
+    100260: polySurface117 1
+    100262: polySurface118
+    100264: polySurface118 1
+    100266: polySurface119
+    100268: polySurface119 1
+    100270: polySurface120
+    100272: polySurface120 1
+    100274: polySurface18
+    100276: polySurface18 1
+    100278: polySurface19
+    100280: polySurface19 1
+    100282: polySurface19 2
+    100284: polySurface19 3
+    100286: polySurface19 4
+    100288: polySurface19 5
+    100290: polySurface36
+    100292: polySurface36 1
+    100294: polySurface37
+    100296: polySurface37 1
+    100298: polySurface37 2
+    100300: polySurface37 3
+    100302: polySurface37 4
+    100304: polySurface37 5
+    100306: polySurface48
+    100308: polySurface61
+    100310: polySurface61 1
+    100312: polySurface61 2
+    100314: polySurface61 3
+    100316: polySurface61 4
+    100318: polySurface61 5
+    100320: polySurface63
+    100322: polySurface63 1
+    100324: polySurface63 2
+    100326: polySurface63 3
+    100328: polySurface63 4
+    100330: polySurface63 5
+    100332: polySurface65
+    100334: polySurface65 1
+    100336: polySurface65 2
+    100338: polySurface65 3
+    100340: polySurface73
+    100342: polySurface73 1
+    100344: polySurface74
+    100346: polySurface74 1
+    100348: polySurface75
+    100350: polySurface75 1
+    100352: polySurface85
+    100354: polySurface85 1
+    100356: polySurface85 2
+    100358: polySurface85 3
+    100360: polySurface85 4
+    100362: polySurface85 5
+    100364: polySurface88
+    100366: polySurface88 1
+    100368: polySurface88 2
+    100370: polySurface88 3
+    100372: pSphere1
+    100374: road1
+    100376: road2
+    100378: road3
+    100380: road4
+    100382: rock
+    100384: rock1
+    100386: rock2
+    100388: rock3
+    100390: rock4
+    100392: rock5
+    100394: rock6
+    100396: rock7
+    100398: rock8
+    100400: roundtree
+    100402: roundtree1
+    100404: roundtree2
+    100406: roundtree3
+    100408: roundtree4
+    100410: roundtree5
+    100412: roundtree6
+    100414: roundtree7
+    100416: roundtree8
+    100418: roundtree9
+    100420: SCENE2:mushroom:polySurface108
+    100422: SCENE2:mushroom:polySurface109
+    100424: SCENE2:mushroom:polySurface18
+    100426: SCENE2:mushroom:polySurface18 1
+    100428: SCENE2:mushroom:polySurface18 2
+    100430: SCENE2:mushroom:polySurface18 3
+    100432: SCENE2:mushroom:polySurface18 4
+    100434: SCENE2:mushroom:polySurface19
+    100436: SCENE2:mushroom:polySurface19 1
+    100438: SCENE2:mushroom:polySurface19 2
+    100440: SCENE2:mushroom:polySurface19 3
+    100442: SCENE2:mushroom:polySurface19 4
+    100444: SCENE2:mushroom:polySurface36
+    100446: SCENE2:mushroom:polySurface37
+    100448: SCENE2:mushroom:polySurface37 1
+    100450: SCENE2:mushroom:polySurface37 2
+    100452: SCENE2:mushroom:polySurface37 3
+    100454: SCENE2:mushroom:polySurface37 4
+    100456: SCENE2:mushroom:polySurface47
+    100458: SCENE2:mushroom:polySurface61
+    100460: SCENE2:mushroom:polySurface63
+    100462: SCENE2:mushroom:polySurface65
+    100464: SCENE2:mushroom:polySurface73
+    100466: SCENE2:mushroom:polySurface74
+    100468: SCENE2:mushroom:polySurface75
+    100470: SCENE2:mushroom:polySurface84
+    100472: SCENE2:mushroom:polySurface85
+    100474: SCENE2:mushroom:polySurface88
+    100476: SCENE2:mushroom:polySurface88 1
+    100478: SCENE2:mushroom:polySurface88 2
+    100480: SCENE2:mushroom:polySurface88 3
+    100482: SCENE2:mushroom:polySurface88 4
+    100484: skeleton
+    100486: treesleaves
+    100488: trunk
+    100490: trunks
+    100492: vines
+    100494: vines 1
+    100496: Windmill
+    100498: yellow
+    400000: apples
+    400002: blocktree
+    400004: blocktree1
+    400006: blocktree10
+    400008: blocktree11
+    400010: blocktree2
+    400012: blocktree3
+    400014: blocktree4
+    400016: blocktree5
+    400018: blocktree6
+    400020: blocktree7
+    400022: blocktree8
+    400024: blocktree9
+    400026: blue
+    400028: castlefairy
+    400030: chipbag:pCube1
+    400032: chips
+    400034: cup1
+    400036: cup2
+    400038: deadtree
+    400040: deadtree1
+    400042: deadtree10
+    400044: deadtree11
+    400046: deadtree2
+    400048: deadtree3
+    400050: deadtree4
+    400052: deadtree5
+    400054: deadtree6
+    400056: deadtree7
+    400058: deadtree8
+    400060: deadtree9
+    400062: destructablevines
+    400064: dirtmound
+    400066: dirtmound1
+    400068: dirtmound2
+    400070: dirtmound3
+    400072: dirtmound4
+    400074: fries
+    400076: fries1
+    400078: fries2
+    400080: frybox
+    400082: grass
+    400084: grass1_polySurface82
+    400086: grass3_polySurface77
+    400088: grass5
+    400090: ground
+    400092: junkfoodcastle
+    400094: leaves
+    400096: log
+    400098: log1
+    400100: log2
+    400102: log3
+    400104: log4
+    400106: obstaclevines
+    400108: pasted__group
+    400110: pasted__group8
+    400112: pasted__group8 1
+    400114: pasted__group8 2
+    400116: pasted__group8 3
+    400118: pasted__group8 4
+    400120: pasted__group8 5
+    400122: pasted__pasted__group8
+    400124: pasted__pasted__polySurface61
+    400126: pasted__pasted__polySurface63
+    400128: pasted__pasted__polySurface65
+    400130: pasted__polySurface61
+    400132: pasted__polySurface61 1
+    400134: pasted__polySurface61 2
+    400136: pasted__polySurface61 3
+    400138: pasted__polySurface61 4
+    400140: pasted__polySurface61 5
+    400142: pasted__polySurface63
+    400144: pasted__polySurface63 1
+    400146: pasted__polySurface63 2
+    400148: pasted__polySurface63 3
+    400150: pasted__polySurface63 4
+    400152: pasted__polySurface63 5
+    400154: pasted__polySurface65
+    400156: pasted__polySurface65 1
+    400158: pasted__polySurface65 2
+    400160: pasted__polySurface65 3
+    400162: pasted__polySurface65 4
+    400164: pCube1
+    400166: pCube33
+    400168: pCube34
+    400170: pCylinder2
+    400172: pCylinder3
+    400174: pinetree
+    400176: pinetree1
+    400178: pinetree10
+    400180: pinetree11
+    400182: pinetree12
+    400184: pinetree13
+    400186: pinetree14
+    400188: pinetree2
+    400190: pinetree3
+    400192: pinetree4
+    400194: pinetree5
+    400196: pinetree6
+    400198: pinetree7
+    400200: pinetree8
+    400202: pinetree9
+    400204: //RootNode
+    400206: polySurface100
+    400208: polySurface108
+    400210: polySurface108 1
+    400212: polySurface108 2
+    400214: polySurface108 3
+    400216: polySurface108 4
+    400218: polySurface109
+    400220: polySurface109 1
+    400222: polySurface109 2
+    400224: polySurface109 3
+    400226: polySurface109 4
+    400228: polySurface109 5
+    400230: polySurface110
+    400232: polySurface110 1
+    400234: polySurface111
+    400236: polySurface111 1
+    400238: polySurface112
+    400240: polySurface112 1
+    400242: polySurface113
+    400244: polySurface113 1
+    400246: polySurface114
+    400248: polySurface114 1
+    400250: polySurface115
+    400252: polySurface115 1
+    400254: polySurface116
+    400256: polySurface116 1
+    400258: polySurface117
+    400260: polySurface117 1
+    400262: polySurface118
+    400264: polySurface118 1
+    400266: polySurface119
+    400268: polySurface119 1
+    400270: polySurface120
+    400272: polySurface120 1
+    400274: polySurface18
+    400276: polySurface18 1
+    400278: polySurface19
+    400280: polySurface19 1
+    400282: polySurface19 2
+    400284: polySurface19 3
+    400286: polySurface19 4
+    400288: polySurface19 5
+    400290: polySurface36
+    400292: polySurface36 1
+    400294: polySurface37
+    400296: polySurface37 1
+    400298: polySurface37 2
+    400300: polySurface37 3
+    400302: polySurface37 4
+    400304: polySurface37 5
+    400306: polySurface48
+    400308: polySurface61
+    400310: polySurface61 1
+    400312: polySurface61 2
+    400314: polySurface61 3
+    400316: polySurface61 4
+    400318: polySurface61 5
+    400320: polySurface63
+    400322: polySurface63 1
+    400324: polySurface63 2
+    400326: polySurface63 3
+    400328: polySurface63 4
+    400330: polySurface63 5
+    400332: polySurface65
+    400334: polySurface65 1
+    400336: polySurface65 2
+    400338: polySurface65 3
+    400340: polySurface73
+    400342: polySurface73 1
+    400344: polySurface74
+    400346: polySurface74 1
+    400348: polySurface75
+    400350: polySurface75 1
+    400352: polySurface85
+    400354: polySurface85 1
+    400356: polySurface85 2
+    400358: polySurface85 3
+    400360: polySurface85 4
+    400362: polySurface85 5
+    400364: polySurface88
+    400366: polySurface88 1
+    400368: polySurface88 2
+    400370: polySurface88 3
+    400372: pSphere1
+    400374: road1
+    400376: road2
+    400378: road3
+    400380: road4
+    400382: rock
+    400384: rock1
+    400386: rock2
+    400388: rock3
+    400390: rock4
+    400392: rock5
+    400394: rock6
+    400396: rock7
+    400398: rock8
+    400400: roundtree
+    400402: roundtree1
+    400404: roundtree2
+    400406: roundtree3
+    400408: roundtree4
+    400410: roundtree5
+    400412: roundtree6
+    400414: roundtree7
+    400416: roundtree8
+    400418: roundtree9
+    400420: SCENE2:mushroom:polySurface108
+    400422: SCENE2:mushroom:polySurface109
+    400424: SCENE2:mushroom:polySurface18
+    400426: SCENE2:mushroom:polySurface18 1
+    400428: SCENE2:mushroom:polySurface18 2
+    400430: SCENE2:mushroom:polySurface18 3
+    400432: SCENE2:mushroom:polySurface18 4
+    400434: SCENE2:mushroom:polySurface19
+    400436: SCENE2:mushroom:polySurface19 1
+    400438: SCENE2:mushroom:polySurface19 2
+    400440: SCENE2:mushroom:polySurface19 3
+    400442: SCENE2:mushroom:polySurface19 4
+    400444: SCENE2:mushroom:polySurface36
+    400446: SCENE2:mushroom:polySurface37
+    400448: SCENE2:mushroom:polySurface37 1
+    400450: SCENE2:mushroom:polySurface37 2
+    400452: SCENE2:mushroom:polySurface37 3
+    400454: SCENE2:mushroom:polySurface37 4
+    400456: SCENE2:mushroom:polySurface47
+    400458: SCENE2:mushroom:polySurface61
+    400460: SCENE2:mushroom:polySurface63
+    400462: SCENE2:mushroom:polySurface65
+    400464: SCENE2:mushroom:polySurface73
+    400466: SCENE2:mushroom:polySurface74
+    400468: SCENE2:mushroom:polySurface75
+    400470: SCENE2:mushroom:polySurface84
+    400472: SCENE2:mushroom:polySurface85
+    400474: SCENE2:mushroom:polySurface88
+    400476: SCENE2:mushroom:polySurface88 1
+    400478: SCENE2:mushroom:polySurface88 2
+    400480: SCENE2:mushroom:polySurface88 3
+    400482: SCENE2:mushroom:polySurface88 4
+    400484: skeleton
+    400486: treesleaves
+    400488: trunk
+    400490: trunks
+    400492: vines
+    400494: vines 1
+    400496: Windmill
+    400498: yellow
+    2100000: groundcolor
+    2100002: apples1
+    2100004: maintreebrown
+    2100006: fairytreegreen
+    2100008: vines1
+    2100010: FryBox
+    2100012: soda
+    2100014: Fries
+    2100016: vineleaves
+    2100018: greenleaves
+    2100020: darkgreenleaves
+    2100022: darkbrowntrunk
+    2100024: grasscolor
+    2100026: greytrunk
+    2100028: orangeleaves
+    2100030: redtreetrunk
+    2100032: redleaves
+    2100034: orangetreetrunk
+    2100036: yellowleaves
+    2100038: darkredleaves
+    2100040: pinetrunk
+    2100042: pinegreen
+    2100044: Deadtreebrown
+    2100046: rocks_yellow
+    2100048: rock_blue
+    2100050: logs
+    2100052: dirtmound6
+    2100054: dirtmound5
+    2100056: road
+    2100058: WindmillCream
+    2100060: WindmillBrownWood
+    2100062: windmilltan
+    2100064: bones
+    2100066: chipbag_initialShadingGroup1
+    2300000: apples
+    2300002: chipbag:pCube1
+    2300004: cup1
+    2300006: cup2
+    2300008: deadtree1
+    2300010: deadtree10
+    2300012: deadtree11
+    2300014: deadtree2
+    2300016: deadtree3
+    2300018: deadtree4
+    2300020: deadtree5
+    2300022: deadtree6
+    2300024: deadtree7
+    2300026: deadtree8
+    2300028: deadtree9
+    2300030: destructablevines
+    2300032: dirtmound1
+    2300034: dirtmound2
+    2300036: dirtmound3
+    2300038: dirtmound4
+    2300040: fries
+    2300042: frybox
+    2300044: grass1_polySurface82
+    2300046: grass3_polySurface77
+    2300048: grass5
+    2300050: ground
+    2300052: log1
+    2300054: log2
+    2300056: log3
+    2300058: log4
+    2300060: pasted__pasted__polySurface61
+    2300062: pasted__pasted__polySurface63
+    2300064: pasted__pasted__polySurface65
+    2300066: pasted__polySurface61
+    2300068: pasted__polySurface61 1
+    2300070: pasted__polySurface61 2
+    2300072: pasted__polySurface61 3
+    2300074: pasted__polySurface61 4
+    2300076: pasted__polySurface61 5
+    2300078: pasted__polySurface63
+    2300080: pasted__polySurface63 1
+    2300082: pasted__polySurface63 2
+    2300084: pasted__polySurface63 3
+    2300086: pasted__polySurface63 4
+    2300088: pasted__polySurface63 5
+    2300090: pasted__polySurface65
+    2300092: pasted__polySurface65 1
+    2300094: pasted__polySurface65 2
+    2300096: pasted__polySurface65 3
+    2300098: pasted__polySurface65 4
+    2300100: pCube1
+    2300102: pCube33
+    2300104: pCube34
+    2300106: pCylinder2
+    2300108: pCylinder3
+    2300110: polySurface100
+    2300112: polySurface108
+    2300114: polySurface108 1
+    2300116: polySurface108 2
+    2300118: polySurface108 3
+    2300120: polySurface108 4
+    2300122: polySurface109
+    2300124: polySurface109 1
+    2300126: polySurface109 2
+    2300128: polySurface109 3
+    2300130: polySurface109 4
+    2300132: polySurface109 5
+    2300134: polySurface110
+    2300136: polySurface110 1
+    2300138: polySurface111
+    2300140: polySurface111 1
+    2300142: polySurface112
+    2300144: polySurface112 1
+    2300146: polySurface113
+    2300148: polySurface113 1
+    2300150: polySurface114
+    2300152: polySurface114 1
+    2300154: polySurface115
+    2300156: polySurface115 1
+    2300158: polySurface116
+    2300160: polySurface116 1
+    2300162: polySurface117
+    2300164: polySurface117 1
+    2300166: polySurface118
+    2300168: polySurface118 1
+    2300170: polySurface119
+    2300172: polySurface119 1
+    2300174: polySurface120
+    2300176: polySurface120 1
+    2300178: polySurface18
+    2300180: polySurface18 1
+    2300182: polySurface19
+    2300184: polySurface19 1
+    2300186: polySurface19 2
+    2300188: polySurface19 3
+    2300190: polySurface19 4
+    2300192: polySurface19 5
+    2300194: polySurface36
+    2300196: polySurface36 1
+    2300198: polySurface37
+    2300200: polySurface37 1
+    2300202: polySurface37 2
+    2300204: polySurface37 3
+    2300206: polySurface37 4
+    2300208: polySurface37 5
+    2300210: polySurface48
+    2300212: polySurface61
+    2300214: polySurface61 1
+    2300216: polySurface61 2
+    2300218: polySurface61 3
+    2300220: polySurface61 4
+    2300222: polySurface61 5
+    2300224: polySurface63
+    2300226: polySurface63 1
+    2300228: polySurface63 2
+    2300230: polySurface63 3
+    2300232: polySurface63 4
+    2300234: polySurface63 5
+    2300236: polySurface65
+    2300238: polySurface65 1
+    2300240: polySurface65 2
+    2300242: polySurface65 3
+    2300244: polySurface73
+    2300246: polySurface73 1
+    2300248: polySurface74
+    2300250: polySurface74 1
+    2300252: polySurface75
+    2300254: polySurface75 1
+    2300256: polySurface85
+    2300258: polySurface85 1
+    2300260: polySurface85 2
+    2300262: polySurface85 3
+    2300264: polySurface85 4
+    2300266: polySurface85 5
+    2300268: polySurface88
+    2300270: polySurface88 1
+    2300272: polySurface88 2
+    2300274: polySurface88 3
+    2300276: pSphere1
+    2300278: road1
+    2300280: road2
+    2300282: road3
+    2300284: rock1
+    2300286: rock2
+    2300288: rock3
+    2300290: rock4
+    2300292: rock5
+    2300294: rock6
+    2300296: rock7
+    2300298: rock8
+    2300300: SCENE2:mushroom:polySurface108
+    2300302: SCENE2:mushroom:polySurface109
+    2300304: SCENE2:mushroom:polySurface18
+    2300306: SCENE2:mushroom:polySurface18 1
+    2300308: SCENE2:mushroom:polySurface18 2
+    2300310: SCENE2:mushroom:polySurface18 3
+    2300312: SCENE2:mushroom:polySurface18 4
+    2300314: SCENE2:mushroom:polySurface19
+    2300316: SCENE2:mushroom:polySurface19 1
+    2300318: SCENE2:mushroom:polySurface19 2
+    2300320: SCENE2:mushroom:polySurface19 3
+    2300322: SCENE2:mushroom:polySurface19 4
+    2300324: SCENE2:mushroom:polySurface36
+    2300326: SCENE2:mushroom:polySurface37
+    2300328: SCENE2:mushroom:polySurface37 1
+    2300330: SCENE2:mushroom:polySurface37 2
+    2300332: SCENE2:mushroom:polySurface37 3
+    2300334: SCENE2:mushroom:polySurface37 4
+    2300336: SCENE2:mushroom:polySurface47
+    2300338: SCENE2:mushroom:polySurface61
+    2300340: SCENE2:mushroom:polySurface63
+    2300342: SCENE2:mushroom:polySurface65
+    2300344: SCENE2:mushroom:polySurface73
+    2300346: SCENE2:mushroom:polySurface74
+    2300348: SCENE2:mushroom:polySurface75
+    2300350: SCENE2:mushroom:polySurface84
+    2300352: SCENE2:mushroom:polySurface85
+    2300354: SCENE2:mushroom:polySurface88
+    2300356: SCENE2:mushroom:polySurface88 1
+    2300358: SCENE2:mushroom:polySurface88 2
+    2300360: SCENE2:mushroom:polySurface88 3
+    2300362: SCENE2:mushroom:polySurface88 4
+    2300364: skeleton
+    2300366: treesleaves
+    2300368: trunk
+    2300370: vines
+    2300372: vines 1
+    3300000: apples
+    3300002: chipbag:pCube1
+    3300004: cup1
+    3300006: cup2
+    3300008: deadtree1
+    3300010: deadtree10
+    3300012: deadtree11
+    3300014: deadtree2
+    3300016: deadtree3
+    3300018: deadtree4
+    3300020: deadtree5
+    3300022: deadtree6
+    3300024: deadtree7
+    3300026: deadtree8
+    3300028: deadtree9
+    3300030: destructablevines
+    3300032: dirtmound1
+    3300034: dirtmound2
+    3300036: dirtmound3
+    3300038: dirtmound4
+    3300040: fries
+    3300042: frybox
+    3300044: grass1_polySurface82
+    3300046: grass3_polySurface77
+    3300048: grass5
+    3300050: ground
+    3300052: log1
+    3300054: log2
+    3300056: log3
+    3300058: log4
+    3300060: pasted__pasted__polySurface61
+    3300062: pasted__pasted__polySurface63
+    3300064: pasted__pasted__polySurface65
+    3300066: pasted__polySurface61
+    3300068: pasted__polySurface61 1
+    3300070: pasted__polySurface61 2
+    3300072: pasted__polySurface61 3
+    3300074: pasted__polySurface61 4
+    3300076: pasted__polySurface61 5
+    3300078: pasted__polySurface63
+    3300080: pasted__polySurface63 1
+    3300082: pasted__polySurface63 2
+    3300084: pasted__polySurface63 3
+    3300086: pasted__polySurface63 4
+    3300088: pasted__polySurface63 5
+    3300090: pasted__polySurface65
+    3300092: pasted__polySurface65 1
+    3300094: pasted__polySurface65 2
+    3300096: pasted__polySurface65 3
+    3300098: pasted__polySurface65 4
+    3300100: pCube1
+    3300102: pCube33
+    3300104: pCube34
+    3300106: pCylinder2
+    3300108: pCylinder3
+    3300110: polySurface100
+    3300112: polySurface108
+    3300114: polySurface108 1
+    3300116: polySurface108 2
+    3300118: polySurface108 3
+    3300120: polySurface108 4
+    3300122: polySurface109
+    3300124: polySurface109 1
+    3300126: polySurface109 2
+    3300128: polySurface109 3
+    3300130: polySurface109 4
+    3300132: polySurface109 5
+    3300134: polySurface110
+    3300136: polySurface110 1
+    3300138: polySurface111
+    3300140: polySurface111 1
+    3300142: polySurface112
+    3300144: polySurface112 1
+    3300146: polySurface113
+    3300148: polySurface113 1
+    3300150: polySurface114
+    3300152: polySurface114 1
+    3300154: polySurface115
+    3300156: polySurface115 1
+    3300158: polySurface116
+    3300160: polySurface116 1
+    3300162: polySurface117
+    3300164: polySurface117 1
+    3300166: polySurface118
+    3300168: polySurface118 1
+    3300170: polySurface119
+    3300172: polySurface119 1
+    3300174: polySurface120
+    3300176: polySurface120 1
+    3300178: polySurface18
+    3300180: polySurface18 1
+    3300182: polySurface19
+    3300184: polySurface19 1
+    3300186: polySurface19 2
+    3300188: polySurface19 3
+    3300190: polySurface19 4
+    3300192: polySurface19 5
+    3300194: polySurface36
+    3300196: polySurface36 1
+    3300198: polySurface37
+    3300200: polySurface37 1
+    3300202: polySurface37 2
+    3300204: polySurface37 3
+    3300206: polySurface37 4
+    3300208: polySurface37 5
+    3300210: polySurface48
+    3300212: polySurface61
+    3300214: polySurface61 1
+    3300216: polySurface61 2
+    3300218: polySurface61 3
+    3300220: polySurface61 4
+    3300222: polySurface61 5
+    3300224: polySurface63
+    3300226: polySurface63 1
+    3300228: polySurface63 2
+    3300230: polySurface63 3
+    3300232: polySurface63 4
+    3300234: polySurface63 5
+    3300236: polySurface65
+    3300238: polySurface65 1
+    3300240: polySurface65 2
+    3300242: polySurface65 3
+    3300244: polySurface73
+    3300246: polySurface73 1
+    3300248: polySurface74
+    3300250: polySurface74 1
+    3300252: polySurface75
+    3300254: polySurface75 1
+    3300256: polySurface85
+    3300258: polySurface85 1
+    3300260: polySurface85 2
+    3300262: polySurface85 3
+    3300264: polySurface85 4
+    3300266: polySurface85 5
+    3300268: polySurface88
+    3300270: polySurface88 1
+    3300272: polySurface88 2
+    3300274: polySurface88 3
+    3300276: pSphere1
+    3300278: road1
+    3300280: road2
+    3300282: road3
+    3300284: rock1
+    3300286: rock2
+    3300288: rock3
+    3300290: rock4
+    3300292: rock5
+    3300294: rock6
+    3300296: rock7
+    3300298: rock8
+    3300300: SCENE2:mushroom:polySurface108
+    3300302: SCENE2:mushroom:polySurface109
+    3300304: SCENE2:mushroom:polySurface18
+    3300306: SCENE2:mushroom:polySurface18 1
+    3300308: SCENE2:mushroom:polySurface18 2
+    3300310: SCENE2:mushroom:polySurface18 3
+    3300312: SCENE2:mushroom:polySurface18 4
+    3300314: SCENE2:mushroom:polySurface19
+    3300316: SCENE2:mushroom:polySurface19 1
+    3300318: SCENE2:mushroom:polySurface19 2
+    3300320: SCENE2:mushroom:polySurface19 3
+    3300322: SCENE2:mushroom:polySurface19 4
+    3300324: SCENE2:mushroom:polySurface36
+    3300326: SCENE2:mushroom:polySurface37
+    3300328: SCENE2:mushroom:polySurface37 1
+    3300330: SCENE2:mushroom:polySurface37 2
+    3300332: SCENE2:mushroom:polySurface37 3
+    3300334: SCENE2:mushroom:polySurface37 4
+    3300336: SCENE2:mushroom:polySurface47
+    3300338: SCENE2:mushroom:polySurface61
+    3300340: SCENE2:mushroom:polySurface63
+    3300342: SCENE2:mushroom:polySurface65
+    3300344: SCENE2:mushroom:polySurface73
+    3300346: SCENE2:mushroom:polySurface74
+    3300348: SCENE2:mushroom:polySurface75
+    3300350: SCENE2:mushroom:polySurface84
+    3300352: SCENE2:mushroom:polySurface85
+    3300354: SCENE2:mushroom:polySurface88
+    3300356: SCENE2:mushroom:polySurface88 1
+    3300358: SCENE2:mushroom:polySurface88 2
+    3300360: SCENE2:mushroom:polySurface88 3
+    3300362: SCENE2:mushroom:polySurface88 4
+    3300364: skeleton
+    3300366: treesleaves
+    3300368: trunk
+    3300370: vines
+    3300372: vines 1
+    4300000: ground
+    4300002: apples
+    4300004: trunk
+    4300006: treesleaves
+    4300008: vines
+    4300010: frybox
+    4300012: cup1
+    4300014: cup2
+    4300016: fries
+    4300018: polySurface110
+    4300020: polySurface111
+    4300022: polySurface112
+    4300024: polySurface113
+    4300026: polySurface114
+    4300028: polySurface115
+    4300030: polySurface116
+    4300032: polySurface117
+    4300034: polySurface118
+    4300036: polySurface119
+    4300038: polySurface120
+    4300040: polySurface110
+    4300042: polySurface111
+    4300044: polySurface112
+    4300046: polySurface113
+    4300048: polySurface114
+    4300050: polySurface115
+    4300052: polySurface116
+    4300054: polySurface117
+    4300056: polySurface118
+    4300058: polySurface119
+    4300060: polySurface120
+    4300062: destructablevines
+    4300064: vines
+    4300066: SCENE2:mushroom:polySurface65
+    4300068: SCENE2:mushroom:polySurface63
+    4300070: SCENE2:mushroom:polySurface47
+    4300072: polySurface100
+    4300074: polySurface48
+    4300076: SCENE2:mushroom:polySurface61
+    4300078: grass5
+    4300080: grass3_polySurface77
+    4300082: grass1_polySurface82
+    4300084: SCENE2:mushroom:polySurface84
+    4300086: polySurface61
+    4300088: polySurface63
+    4300090: polySurface61
+    4300092: polySurface65
+    4300094: polySurface63
+    4300096: pasted__polySurface61
+    4300098: pasted__polySurface65
+    4300100: pasted__polySurface63
+    4300102: pasted__polySurface61
+    4300104: pasted__polySurface65
+    4300106: pasted__polySurface63
+    4300108: polySurface61
+    4300110: polySurface65
+    4300112: polySurface63
+    4300114: pasted__polySurface61
+    4300116: pasted__polySurface65
+    4300118: pasted__polySurface63
+    4300120: pasted__polySurface61
+    4300122: pasted__polySurface65
+    4300124: pasted__polySurface63
+    4300126: pasted__polySurface61
+    4300128: pasted__polySurface65
+    4300130: pasted__polySurface63
+    4300132: pasted__pasted__polySurface61
+    4300134: pasted__pasted__polySurface65
+    4300136: pasted__pasted__polySurface63
+    4300138: polySurface61
+    4300140: polySurface65
+    4300142: polySurface63
+    4300144: polySurface61
+    4300146: polySurface65
+    4300148: polySurface63
+    4300150: polySurface109
+    4300152: polySurface108
+    4300154: polySurface85
+    4300156: pasted__polySurface61
+    4300158: pasted__polySurface63
+    4300160: polySurface61
+    4300162: polySurface63
+    4300164: polySurface109
+    4300166: polySurface85
+    4300168: polySurface109
+    4300170: polySurface108
+    4300172: polySurface85
+    4300174: polySurface109
+    4300176: polySurface108
+    4300178: polySurface85
+    4300180: polySurface109
+    4300182: polySurface108
+    4300184: polySurface85
+    4300186: polySurface109
+    4300188: polySurface108
+    4300190: polySurface85
+    4300192: SCENE2:mushroom:polySurface109
+    4300194: SCENE2:mushroom:polySurface108
+    4300196: SCENE2:mushroom:polySurface85
+    4300198: polySurface19
+    4300200: polySurface37
+    4300202: polySurface88
+    4300204: polySurface19
+    4300206: polySurface37
+    4300208: polySurface19
+    4300210: polySurface37
+    4300212: polySurface88
+    4300214: polySurface19
+    4300216: polySurface37
+    4300218: polySurface74
+    4300220: polySurface73
+    4300222: polySurface36
+    4300224: polySurface75
+    4300226: polySurface88
+    4300228: polySurface19
+    4300230: polySurface18
+    4300232: polySurface37
+    4300234: polySurface88
+    4300236: polySurface19
+    4300238: polySurface18
+    4300240: polySurface37
+    4300242: SCENE2:mushroom:polySurface88
+    4300244: SCENE2:mushroom:polySurface19
+    4300246: SCENE2:mushroom:polySurface18
+    4300248: SCENE2:mushroom:polySurface37
+    4300250: SCENE2:mushroom:polySurface88
+    4300252: SCENE2:mushroom:polySurface19
+    4300254: SCENE2:mushroom:polySurface18
+    4300256: SCENE2:mushroom:polySurface37
+    4300258: SCENE2:mushroom:polySurface88
+    4300260: SCENE2:mushroom:polySurface19
+    4300262: SCENE2:mushroom:polySurface18
+    4300264: SCENE2:mushroom:polySurface37
+    4300266: SCENE2:mushroom:polySurface88
+    4300268: SCENE2:mushroom:polySurface19
+    4300270: SCENE2:mushroom:polySurface18
+    4300272: SCENE2:mushroom:polySurface37
+    4300274: polySurface74
+    4300276: polySurface73
+    4300278: polySurface36
+    4300280: polySurface75
+    4300282: SCENE2:mushroom:polySurface74
+    4300284: SCENE2:mushroom:polySurface73
+    4300286: SCENE2:mushroom:polySurface36
+    4300288: SCENE2:mushroom:polySurface75
+    4300290: SCENE2:mushroom:polySurface88
+    4300292: SCENE2:mushroom:polySurface19
+    4300294: SCENE2:mushroom:polySurface18
+    4300296: SCENE2:mushroom:polySurface37
+    4300298: deadtree11
+    4300300: deadtree10
+    4300302: deadtree9
+    4300304: deadtree8
+    4300306: deadtree7
+    4300308: deadtree6
+    4300310: deadtree5
+    4300312: deadtree4
+    4300314: deadtree3
+    4300316: deadtree2
+    4300318: deadtree1
+    4300320: rock1
+    4300322: rock7
+    4300324: rock8
+    4300326: rock6
+    4300328: rock5
+    4300330: rock4
+    4300332: rock3
+    4300334: rock2
+    4300336: log4
+    4300338: log3
+    4300340: log2
+    4300342: log1
+    4300344: dirtmound4
+    4300346: dirtmound3
+    4300348: dirtmound2
+    4300350: dirtmound1
+    4300352: road1
+    4300354: road2
+    4300356: road3
+    4300358: pCylinder3
+    4300360: pSphere1
+    4300362: pCube33
+    4300364: pCylinder2
+    4300366: skeleton
+    4300368: pCube34
+    4300370: pCube1
+    4300372: chipbag:pCube1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deadtreebrown
+    second: {fileID: 2100000, guid: 132d8e85f9c89dd4585e36186eb3d060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fries
+    second: {fileID: 2100000, guid: 584971af10a329e46b6673b86950bc0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FryBox
+    second: {fileID: 2100000, guid: 0a550a9781482cf499a722d7fcbd2de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindmillBrownWood
+    second: {fileID: 2100000, guid: 4d2a89fef715e6a4abbc8620bfdb5da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindmillCream
+    second: {fileID: 2100000, guid: d260d5dce05a34145bcc87c5c592f8db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: apples1
+    second: {fileID: 2100000, guid: 1cdd112dd9e38404a9eac2ac75225c5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bones
+    second: {fileID: 2100000, guid: aa07b67b5f14dcc42a83e163e2f6a558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chipbag_initialShadingGroup1
+    second: {fileID: 2100000, guid: e0cb71e650b55b94399865eb4bdbbe2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkbrowntrunk
+    second: {fileID: 2100000, guid: 1bd49111301f8424a9708a050ac4c5f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkgreenleaves
+    second: {fileID: 2100000, guid: d851f7744c0e93541b9136467f8f7fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkredleaves
+    second: {fileID: 2100000, guid: 4d3e10cfb57da5941970cbafd2844065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirtmound5
+    second: {fileID: 2100000, guid: 2dd7f8b5aecaba346b8bc0a57129dc3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirtmound6
+    second: {fileID: 2100000, guid: 210973577c27d714b81229dae8e41f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fairytreegreen
+    second: {fileID: 2100000, guid: 418f5c688043aa041a7e2af349eeaa74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grasscolor
+    second: {fileID: 2100000, guid: 209ff7fdafc34234aa173e7613562068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: greenleaves
+    second: {fileID: 2100000, guid: 4ba261babbb0b204b9ad7191e9ecaa37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: greytrunk
+    second: {fileID: 2100000, guid: 7c4ee48b290f584448fa13a435fb8e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groundcolor
+    second: {fileID: 2100000, guid: 822f9a70a9ee108449fa58b36b14b5a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logs
+    second: {fileID: 2100000, guid: 5ade0365f556ee1408293663e036ca4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maintreebrown
+    second: {fileID: 2100000, guid: 7da35ab8c7843574292f205d37a39ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangeleaves
+    second: {fileID: 2100000, guid: 25a0f20d430bc8f41a8a8bac0f5663f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangetreetrunk
+    second: {fileID: 2100000, guid: 0d49cbf2812a09e46955ecc29c119ba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pinegreen
+    second: {fileID: 2100000, guid: 3d6cfdcc8c5126a4d92288f2705d3f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pinetrunk
+    second: {fileID: 2100000, guid: e520c2a950f51e44bb40c9b8947f259b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redleaves
+    second: {fileID: 2100000, guid: d3ae9d5adc1ebdb4c8d7ce7a9eef5350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redtreetrunk
+    second: {fileID: 2100000, guid: e6d7518bca97bc9448402a3de48b782c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2100000, guid: 01ac9d6debdb12c4596be2cd75aabd7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rock_blue
+    second: {fileID: 2100000, guid: 64b37f6642ccb1e41b49b36738cd2d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rocks_yellow
+    second: {fileID: 2100000, guid: 2a1b5ebdc052fdf4286568943c7a7e7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soda
+    second: {fileID: 2100000, guid: f1034dae2fcf9f240926d2d35df4ec19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vineleaves
+    second: {fileID: 2100000, guid: 66e08fcca48836d42b24d5d3b5aa61ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vines1
+    second: {fileID: 2100000, guid: f5a45b20cf6753a45a38dab204d7f671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windmilltan
+    second: {fileID: 2100000, guid: 4c7b1f8f6018714459d50303c0fece51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellowleaves
+    second: {fileID: 2100000, guid: 16b165437f5abdf408e2d6400c56a03c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Chips
+    second: {fileID: 2800000, guid: 13f9713e0cf1f3b429208d9e16dfdae4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gradient
+    second: {fileID: 2800000, guid: 1f8b60bdcd59dcc44ba5ed639d94df93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sodatexturetree2
+    second: {fileID: 2800000, guid: 4bc7aed0de156854480186092edc9901, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

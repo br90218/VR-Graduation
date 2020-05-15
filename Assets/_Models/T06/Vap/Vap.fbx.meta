@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 83e618469eaf71d4f93a5126f9e42767
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cloth
+    100002: head
+    100004: joint1
+    100006: joint19
+    100008: joint2
+    100010: joint20
+    100012: joint21
+    100014: joint22
+    100016: joint24
+    100018: joint27
+    100020: joint28
+    100022: joint3
+    100024: joint37
+    100026: joint38
+    100028: joint39
+    100030: joint40
+    100032: joint41
+    100034: joint42
+    100036: joint43
+    100038: joint44
+    100040: joint5
+    100042: joint6
+    100044: LL1
+    100046: LL2
+    100048: LR
+    100050: neck
+    100052: polySurface1
+    100054: polySurface2
+    100056: pPlane1
+    100058: pSphere1
+    100060: pSphere2
+    100062: RA
+    100064: //RootNode
+    100066: vap
+    400000: cloth
+    400002: head
+    400004: joint1
+    400006: joint19
+    400008: joint2
+    400010: joint20
+    400012: joint21
+    400014: joint22
+    400016: joint24
+    400018: joint27
+    400020: joint28
+    400022: joint3
+    400024: joint37
+    400026: joint38
+    400028: joint39
+    400030: joint40
+    400032: joint41
+    400034: joint42
+    400036: joint43
+    400038: joint44
+    400040: joint5
+    400042: joint6
+    400044: LL1
+    400046: LL2
+    400048: LR
+    400050: neck
+    400052: polySurface1
+    400054: polySurface2
+    400056: pPlane1
+    400058: pSphere1
+    400060: pSphere2
+    400062: RA
+    400064: //RootNode
+    400066: vap
+    2100000: lambert2
+    4300000: head
+    4300002: pSphere1
+    4300004: pSphere2
+    4300006: pPlane1
+    4300008: cloth
+    4300010: polySurface1
+    4300012: polySurface2
+    9500000: //RootNode
+    13700000: cloth
+    13700002: head
+    13700004: polySurface1
+    13700006: polySurface2
+    13700008: pPlane1
+    13700010: pSphere1
+    13700012: pSphere2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

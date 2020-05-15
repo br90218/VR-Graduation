@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 7ba9e01096f8e914d84058954663e912
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankle
+    100002: head
+    100004: head_top
+    100006: hip
+    100008: knee
+    100010: l_clavicle
+    100012: l_elbow
+    100014: l_hand
+    100016: l_shoulder
+    100018: l_wrist
+    100020: neck
+    100022: r_clavicle
+    100024: r_elbow
+    100026: r_hand
+    100028: r_shoulder
+    100030: r_wrist
+    100032: root
+    100034: spine_1
+    100036: spine_2
+    100038: spine_3
+    100040: spine_node
+    100042: //RootNode
+    100044: toorg_mesh
+    400000: ankle
+    400002: head
+    400004: head_top
+    400006: hip
+    400008: knee
+    400010: l_clavicle
+    400012: l_elbow
+    400014: l_hand
+    400016: l_shoulder
+    400018: l_wrist
+    400020: neck
+    400022: r_clavicle
+    400024: r_elbow
+    400026: r_hand
+    400028: r_shoulder
+    400030: r_wrist
+    400032: root
+    400034: spine_1
+    400036: spine_2
+    400038: spine_3
+    400040: spine_node
+    400042: //RootNode
+    400044: toorg_mesh
+    2100000: toorg_mtl
+    4300000: toorg_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: toorg_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toorg_mtl
+    second: {fileID: 2100000, guid: 0a632ffc28ad9034499e8d2757facf73, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: dfebe5dd12604cc4da776a9ea9fd068a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Banana
+    100002: blueberry2
+    100004: grapes
+    100006: leaves1
+    100008: leaves2
+    100010: leaves3
+    100012: leaves4
+    100014: leaves5
+    100016: peach
+    100018: pSphere1
+    100020: starfruit1
+    100022: //RootNode
+    100024: typeMesh3
+    100026: vines1
+    400000: Banana
+    400002: blueberry2
+    400004: grapes
+    400006: leaves1
+    400008: leaves2
+    400010: leaves3
+    400012: leaves4
+    400014: leaves5
+    400016: peach
+    400018: pSphere1
+    400020: starfruit1
+    400022: //RootNode
+    400024: typeMesh3
+    400026: vines1
+    2100000: vines
+    2100002: grapes1
+    2100004: peach1
+    2100006: deagonfruit
+    2100008: starfruit
+    2100010: banana1
+    2100012: title
+    2100014: lambert15
+    2100016: lambert16
+    2100018: lambert17
+    2100020: lambert18
+    2100022: blueberry3
+    2300000: Banana
+    2300002: blueberry2
+    2300004: grapes
+    2300006: leaves1
+    2300008: leaves2
+    2300010: leaves3
+    2300012: leaves4
+    2300014: leaves5
+    2300016: peach
+    2300018: pSphere1
+    2300020: starfruit1
+    2300022: typeMesh3
+    2300024: vines1
+    3300000: Banana
+    3300002: blueberry2
+    3300004: grapes
+    3300006: leaves1
+    3300008: leaves2
+    3300010: leaves3
+    3300012: leaves4
+    3300014: leaves5
+    3300016: peach
+    3300018: pSphere1
+    3300020: starfruit1
+    3300022: typeMesh3
+    3300024: vines1
+    4300000: vines1
+    4300002: grapes
+    4300004: peach
+    4300006: pSphere1
+    4300008: starfruit1
+    4300010: Banana
+    4300012: typeMesh3
+    4300014: leaves1
+    4300016: leaves2
+    4300018: leaves3
+    4300020: leaves4
+    4300022: leaves5
+    4300024: blueberry2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
